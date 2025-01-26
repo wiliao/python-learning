@@ -1,0 +1,12 @@
+from turtle import *
+color("blue")
+shape("classic")
+speed(1)
+pensize(4)
+forward(400)
+right(90)
+forward(400)
+right(90)
+forward(400)
+right(90)
+forward(400)

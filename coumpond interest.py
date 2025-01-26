@@ -1,0 +1,5 @@
+print("This program will compute compund interest.")
+P = int(input("What is the principal amount? "))
+i = float(input("What is the rate of interest? "))
+t = int(input("What is the number of years? "))
+print((1 + i / 100) ** t * P)

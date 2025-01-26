@@ -1,0 +1,5 @@
+print("This program will take the first and last members of a list and return them.")
+lis = input("Enter the list seperated by commas. ")
+dis = lis.split(",")
+print("The first value is", dis[0])
+print("The last value is", dis[-1])

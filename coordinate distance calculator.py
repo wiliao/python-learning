@@ -1,0 +1,8 @@
+x1 = int(input("What is x1? "))
+x2 = int(input("What is x2? "))
+y1 = int(input("What is y1? "))
+y2 = int(input("What is y2? "))
+d1 = abs(x1 - y1)
+d2 = abs(x2 - y2)
+d = (d1 ** 2 + d2 ** 2) ** (1 / 2)
+print(d)
