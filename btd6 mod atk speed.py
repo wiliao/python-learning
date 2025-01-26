@@ -8,3 +8,4 @@ while simTime <= 45:
     tAtkSpe *= 20 / 19
 
 print(tAtks)
+print("Hello World")
